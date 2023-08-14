@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e29528c1-cc8b-4374-aa67-17d59f070a35" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_practise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/draw/DrawCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/eventlistener/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/eventlistener/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/net/Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Arrays/Arrays_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Arrays/CustomBubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Arrays/OtherMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Arrays/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Date/Calendar_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Date/Instant_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Date/LocalDateTime_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Date/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/BufferedCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/BufferedExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/BufferedStreamExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/FileExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/GarbledCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/InputStream_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/ObjectStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/OutputStream_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/PrintStream_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/Standard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/charStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/modifier/BufferedRead_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/modifier/FileReader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/modifier/Reader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/modifier/StringReader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/File_/modifier/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/StringBuffer_/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/TemplateTest/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/TemplateTest/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/TemplateTest/TemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/TemplateTest/improve/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/TemplateTest/improve/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/TemplateTest/improve/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/TemplateTest/improve/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/abstract_/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/annotation/deprecated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/arraylist/ArrayListSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/arraylist/LinkedListSimulate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/arraylist/LinkedListSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/arraylist/VectorSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/codeblock_/Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/codeblock_/Detail2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/codeblock_/Detail3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/codeblock_/Detail4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/collection/CollectionHomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/collection/CollectionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/collection/CollectionPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/collection_/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/enum_/EnumDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/enum_/Enumeration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/enum_/Enumeration_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/enum_/Enumeration_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/enum_/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/enum_/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/exception/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/exception/Homework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/final_/Final01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/CustomGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/CustomInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/Generic01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/Generic02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/Generic03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/GenericExtends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/GenericMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/GenericPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/generic_/detail2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/homework/HomeWork01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/homework/HomeWork02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/homework/HomeWork06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/homework/HomeWork07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/homework/HomeWork08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/homework/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/homework/TestWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/innerclass/AnonymousClassDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/innerclass/AnonymousClassPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/innerclass/AnonymousInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/innerclass/MemberInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/innerclass/StaticInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/AInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/ExtendsVsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/Interface01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/Interface02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/InterfacePolyArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/InterfacePolyParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/InterfacePolyPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/interface_/UsbInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/map/TreeMap_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/map/hashTable_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/map/properties_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/poly/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/poly/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/poly/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/poly/ObjectPoly/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/poly/ObjectPoly/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/poly/ObjectPoly/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/poly/ObjectPoly/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/practice/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/override_/practice/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/PolyDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/PolyDetail2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/PolyDetail3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/arr/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/arr/PolyArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/arr/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/arr/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/bank/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/bank/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/dynamicbind/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/dynamicbind/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/dynamicbind/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/exercise/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/exercise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/exercise/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/exercise/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/param/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/param/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/param/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/param/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/poly/param/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/properties/StreamHomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/properties/mysql/Properties_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/renthouse/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/renthouse/domain/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/renthouse/service/HouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/renthouse/view/HouseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/HashSetStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/LinkedHashSet_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/MapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/MapSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/MapSource_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/SetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/SetPractice02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/SetPractice_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/SetSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/set_/TreeSet_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/single/SingleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/smallmoney/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/smallmoney/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/static_/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/static_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/static_/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/string_/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/string_/String01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/string_/String02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/string_/String03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/string_/String04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/string_/String05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/super_/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/super_/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/system_/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/wrapper/Integer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/wrapper/Integer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/wrapper/Integer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/wrapper/Integer04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/wrapper/StringAndInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/practise/wrapper/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/socket/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/socket/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/socket/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/socket/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/socket/Server2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/socket/Server3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/socket/file/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/socket/file/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/socket/file/StreamUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/tankgame/GameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/tankgame/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/tankgame/dao/Bomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/tankgame/dao/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/tankgame/dao/EnemyTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/tankgame/dao/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/tankgame/dao/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/DaemonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/MyThread02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/NoticeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/SellTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/ThreadMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/ThreadStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/thread/YieldAndJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dog.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qbk4nbKWxEbVYSqv0HXK8LFin5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/文件/Java 基础/basic_practise/out/production/basic_practise&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\文件\Java 基础\basic_practise\out\production\basic_practise" />
+      <recent name="D:\文件\Java 基础\basic_practise\out\production\basic_practise\explode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\文件\Java 基础\basic_practise\src" />
+      <recent name="D:\文件\Java 基础\basic_practise\out\production\basic_practise" />
+      <recent name="D:\文件\Java 基础\basic_practise\src\basic\practise\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.socket.file.Client" />
+      <module name="basic_practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.socket.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.socket.Client3" />
+      <module name="basic_practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.socket.file.Server" />
+      <module name="basic_practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.socket.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.socket.Server2" />
+      <module name="basic_practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.socket.Server3" />
+      <module name="basic_practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client3" />
+      <item itemvalue="Application.Server2" />
+      <item itemvalue="Application.Server3" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Server2" />
+        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.Server3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e29528c1-cc8b-4374-aa67-17d59f070a35" name="Changes" comment="" />
+      <created>1685629482535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685629482535</updated>
+      <workItem from="1685629483658" duration="946000" />
+      <workItem from="1685668401238" duration="10020000" />
+      <workItem from="1685761320227" duration="2225000" />
+      <workItem from="1685878236715" duration="7478000" />
+      <workItem from="1685929455609" duration="9999000" />
+      <workItem from="1686040902532" duration="2887000" />
+      <workItem from="1686056086002" duration="4706000" />
+      <workItem from="1686104362241" duration="1291000" />
+      <workItem from="1686124501730" duration="5626000" />
+      <workItem from="1686186690442" duration="7058000" />
+      <workItem from="1686311445447" duration="6358000" />
+      <workItem from="1686378383559" duration="6410000" />
+      <workItem from="1686487220128" duration="4557000" />
+      <workItem from="1686536413271" duration="18287000" />
+      <workItem from="1686620087304" duration="19219000" />
+      <workItem from="1686706487728" duration="14841000" />
+      <workItem from="1686790686766" duration="3808000" />
+      <workItem from="1686900745192" duration="1204000" />
+      <workItem from="1687095152653" duration="741000" />
+      <workItem from="1687096385613" duration="6743000" />
+      <workItem from="1687140034324" duration="17208000" />
+      <workItem from="1687242444810" duration="11829000" />
+      <workItem from="1687307515454" duration="10322000" />
+      <workItem from="1687501123327" duration="1828000" />
+      <workItem from="1687591959266" duration="13148000" />
+      <workItem from="1687655163452" duration="8383000" />
+      <workItem from="1687762606898" duration="18395000" />
+      <workItem from="1687828876824" duration="14396000" />
+      <workItem from="1687912130262" duration="13079000" />
+      <workItem from="1688004620246" duration="6082000" />
+      <workItem from="1688050012316" duration="726000" />
+      <workItem from="1688130966113" duration="2403000" />
+      <workItem from="1688175864767" duration="9673000" />
+      <workItem from="1688309606793" duration="3349000" />
+      <workItem from="1688344142120" duration="22469000" />
+      <workItem from="1688433523499" duration="16240000" />
+      <workItem from="1688517113382" duration="26441000" />
+      <workItem from="1688605866823" duration="2874000" />
+      <workItem from="1688650267215" duration="5537000" />
+      <workItem from="1688695154199" duration="5757000" />
+      <workItem from="1688734222777" duration="8716000" />
+      <workItem from="1688777261234" duration="2000" />
+      <workItem from="1688949151167" duration="5403000" />
+      <workItem from="1689000762737" duration="3837000" />
+      <workItem from="1689259121285" duration="2518000" />
+      <workItem from="1689297508310" duration="25786000" />
+      <workItem from="1689509904005" duration="5926000" />
+      <workItem from="1689559022238" duration="9357000" />
+      <workItem from="1689598244880" duration="9767000" />
+      <workItem from="1689664464347" duration="17973000" />
+      <workItem from="1689730099444" duration="20505000" />
+      <workItem from="1689813805392" duration="19853000" />
+      <workItem from="1689907063751" duration="11076000" />
+      <workItem from="1689988468942" duration="4583000" />
+      <workItem from="1690112411572" duration="1801000" />
+      <workItem from="1690162756273" duration="20228000" />
+      <workItem from="1690247295372" duration="20286000" />
+      <workItem from="1690340267532" duration="2180000" />
+      <workItem from="1690418764903" duration="9000" />
+      <workItem from="1690471047611" duration="1000" />
+      <workItem from="1690516673799" duration="1168000" />
+      <workItem from="1690549360838" duration="2768000" />
+      <workItem from="1690557732930" duration="1500000" />
+      <workItem from="1690593623095" duration="13193000" />
+      <workItem from="1690717039869" duration="8370000" />
+      <workItem from="1690733498408" duration="333000" />
+      <workItem from="1690767210738" duration="12962000" />
+      <workItem from="1690854629571" duration="15944000" />
+      <workItem from="1690939261238" duration="36970000" />
+      <workItem from="1691111396824" duration="21093000" />
+      <workItem from="1691202909091" duration="7141000" />
+      <workItem from="1691331780556" duration="594000" />
+      <workItem from="1691373920294" duration="20941000" />
+      <workItem from="1691459073576" duration="1408000" />
+      <workItem from="1691549424416" duration="13467000" />
+      <workItem from="1691631792235" duration="7966000" />
+      <workItem from="1691718163976" duration="18637000" />
+      <workItem from="1691806876817" duration="6882000" />
+      <workItem from="1691943014301" duration="879000" />
+      <workItem from="1691980855904" duration="1528000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1691943321510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691943321510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1691943554007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691943554008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/practise/set_/SetSource.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.ArrayList" memberName="elementData" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/basic_practise$SetPractice02.ic" NAME="SetPractice02 Coverage Results" MODIFIED="1689664617696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>basic.practise.set_.*</FILTER>
+    </SUITE>
+  </component>
+</project>
