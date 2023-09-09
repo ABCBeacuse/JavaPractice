@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29528c1-cc8b-4374-aa67-17d59f070a35" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/client/service/ManageClientConnectServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/client/service/MessageClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/client/service/UserClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/client/thread/ClientConnectServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/client/view/QQView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/model/domain/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/model/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/model/enums/MessageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/server/QQServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/server/service/ManageOffLineMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/server/service/ManageServerConnectClientThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/server/service/SendNewsToAllService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/qq/server/thread/ServerConnectClientThread.java" afterDir="false" />
+    <list default="true" id="e29528c1-cc8b-4374-aa67-17d59f070a35" name="Changes" comment="QQ 功能实现">
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/AllTypeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/ClassLoad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/ClassTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/Reflection01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/Reflection02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/ReflectionQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/ReflectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/question/ReflectionUtils02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/reflection/re.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/socket/file/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/socket/file/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +70,13 @@
       <recent name="D:\文件\Java 基础\basic_practise\src\basic\practise\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QQView">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.socket.file.Client" />
+  <component name="RunManager" selected="Application.GameFrame">
+    <configuration name="GameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.tankgame.GameFrame" />
       <module name="basic_practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.socket.file.*" />
+          <option name="PATTERN" value="basic.tankgame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QQServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.qq.server.QQServer" />
+    <configuration name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.reflection.question.ReflectionTest" />
       <module name="basic_practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.qq.server.*" />
+          <option name="PATTERN" value="basic.reflection.question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,59 +97,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QQView" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.qq.client.view.QQView" />
+    <configuration name="ReflectionTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basic_practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.qq.client.view.*" />
+          <option name="PATTERN" value="basic.reflection.question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="basic.reflection.question" />
+      <option name="MAIN_CLASS_NAME" value="basic.reflection.question.ReflectionTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.socket.file.Server" />
+    <configuration name="ReflectionUtils02.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basic_practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.socket.file.*" />
+          <option name="PATTERN" value="basic.reflection.question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="basic.reflection.question" />
+      <option name="MAIN_CLASS_NAME" value="basic.reflection.question.ReflectionUtils02" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.socket.Server2" />
+    <configuration name="ReflectionUtils02.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basic_practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.socket.*" />
+          <option name="PATTERN" value="basic.reflection.question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="basic.reflection.question" />
+      <option name="MAIN_CLASS_NAME" value="basic.reflection.question.ReflectionUtils02" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QQServer" />
-      <item itemvalue="Application.QQView" />
-      <item itemvalue="Application.Server2" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.GameFrame" />
+      <item itemvalue="Application.ReflectionTest" />
+      <item itemvalue="JUnit.ReflectionTest.test" />
+      <item itemvalue="JUnit.ReflectionUtils02.test4" />
+      <item itemvalue="JUnit.ReflectionUtils02.test5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QQView" />
-        <item itemvalue="Application.QQServer" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Server2" />
+        <item itemvalue="Application.GameFrame" />
+        <item itemvalue="JUnit.ReflectionTest.test" />
+        <item itemvalue="Application.ReflectionTest" />
+        <item itemvalue="JUnit.ReflectionUtils02.test5" />
+        <item itemvalue="JUnit.ReflectionUtils02.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +254,14 @@
       <workItem from="1692929593999" duration="7369000" />
       <workItem from="1692948852844" duration="19712000" />
       <workItem from="1693014493155" duration="22198000" />
-      <workItem from="1693123129397" duration="13978000" />
+      <workItem from="1693123129397" duration="14709000" />
+      <workItem from="1693186355561" duration="15927000" />
+      <workItem from="1693270573590" duration="10463000" />
+      <workItem from="1693364595550" duration="12863000" />
+      <workItem from="1693441395070" duration="607000" />
+      <workItem from="1693482269565" duration="1786000" />
+      <workItem from="1693539626913" duration="730000" />
+      <workItem from="1694047738121" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1691943321510</created>
@@ -270,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691982468851</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="QQ 功能实现">
+      <created>1693150770418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693150770418</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +310,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="QQ 功能实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="QQ 功能实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -298,6 +320,11 @@
           <url>file://$PROJECT_DIR$/src/basic/practise/set_/SetSource.java</url>
           <line>10</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/reflection/question/Reflection02.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
