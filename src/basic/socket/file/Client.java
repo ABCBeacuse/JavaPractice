@@ -41,5 +41,6 @@ public class Client {
         fileInputStream.close();
         socket.close();
         System.out.println("客户端关闭");
+
     }
 }

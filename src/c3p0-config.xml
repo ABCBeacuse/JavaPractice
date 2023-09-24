@@ -1,0 +1,25 @@
+<c3p0-config>
+    <!-- 数据源名称，代表连接池-->
+    <named-config name="hsp_edu">
+        <!-- 驱动类 -->
+        <property name="driverClass">com.mysql.jdbc.Driver</property>
+        <!-- url -->
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/testdb</property>
+        <!-- 用户名 -->
+        <property name="user">root</property>
+        <!-- 密码 -->
+        <property name="password">root</property>
+        <!-- 每次增长的连接数：即当连接池中连接不够使用时，每次扩充几个 -->
+        <property name="acquireIncrement">5</property>
+        <!-- 初始连接数 -->
+        <property name="initialPoolSize">10</property>
+        <!-- 最小连接数：即假如有 10 个连接, 当中有部分连接长时间闲置，所以会自动回收，回收后的最小剩余连接数为 “最小连接数” -->
+        <property name="minPoolSize">5</property>
+        <!-- 最大连接数 -->
+        <property name="maxPoolSize">10</property>
+        <!-- 可连接的最多的命令对象数 一般默认-->
+        <property name="maxStatements">5</property>
+        <!-- 每个连接对象可连接的最多的命令对象数 一般默认-->
+        <property name="maxStatements">2</property>
+    </named-config>
+</c3p0-config>
